@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "affable-bastion-324718",
+  "private_key_id": "46b5767bba57eda3bc8e2b2cbec42ef23982c762",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvICVgG7ytkDMt\nh/wyxmPP0yLkQZKKIC62pN7Bo9Vo1M3CNEpHHuJ8iuBBEo/s8+G8RJI7Ea0CbOEK\nY6waNTB+4HMPKRdgT2I9t4j/x6XAUELMcJ2w7H1wE2m8foP+qDFpPJFOXh9ZlWDr\njdofZX1SEyjqUf8np3/VlGETzUBbUWYT7mF2qZR7B0PcwfflN2r8/oO+rO/vDNBn\n0UrMWxeYEU2Z+l4FnCaghXw8q1jR8CXOX6dx/n+byLUe4UAww/Sxlvn5RBByBKce\nDAd6ti3u6fJ0a4CzQkwgr2pKiRb/VNifhLbhaeV+eElFC9cxzLjoaLDJMzXn+Z3y\nGOax1y81AgMBAAECggEAFcHcBLmhWj1zmqHz3X7VmBRC6XfZ6H1zIqUvq3jHsykh\nq5jsZTo3K1PLgcA5njq2gFXQ5FUAY+caNsLI5v2N8w1jCq8XdGjkrG7lpTg6KZxj\n54wbnPx3kVoC1ebBBcux6zxakEHaImGIFwaqIQ8v7ubVYzSgva/s3rcIei/Duksp\nr8J9nVwJ1EUhPHK2zu1shjJgt19EUyij87Rrmk6JAvtDuTi8F5/M/JY6WZvvK4v3\nVXyMJife4OREaU1fAxP/N1d/prUpRYVSF4d4mGnTBon+ZhhbUNmj45jE7LH7nBAp\nUszL7GzsjXO4fs+JO/Z4LsH2PIkl/CAklMHl1PsUBQKBgQD9niokxBIy5RWY/FQw\n4nBsfcZjo6GFxnit76otAzovh8Kx30pjFY5QE4o+ECNIaG366z+s0HTqAWLhg/NR\nVcJudAhQT5wW7JkAuE2xF9DZ9i4b6ClHrH/wxvPvqXU9TwVRlnCqYiOLVfxPqN4A\nPJAW2QyM7GdTeKkUs9huqR3fVwKBgQDxXyJToSIVoHbGq+IGTqCNFqR87yBg0vmT\nqibjdB5RIzpbe6T571QtK26aLtZsZLy7KQW4fIebqqmaLnN6qe9aDKuvRyL5XPQl\nRCWgBMWrMVEHA31dVmYbwkj1ZKJTnKhr/YZNGXKzhnMMLTM0RPkjfQsg9vfS7MEz\nYncjYOiqUwKBgEFFyqzptZFZukREdNqb/Lk/aabNP03xta92ZkLteLUw6J/kyv1T\nV+wuCz9L4fjJv7x7fUjZ4a00LCHEVwQQ4ViSDm20/4Q64mn4BS7V5U+jd1yBVNZ4\ng/kRC0kcQOtFgiXsZRTE60b6G1TZLkG7VI480GkYksM9465LVyGr7t9DAoGBAJXT\n0PIKnqbAEZqnTUlO+1g5CufGY9nWfDfOMg+Un9ELxgjNio3eoujbAe/RTSbBrWmc\nQEHRgzf8ywS6+tHUtI+4N8Y4qRwTODX9xEE9VRo8Jajt4J7Up9NpWXKCAkVWhDFs\nkTZAqrOHrNiNIjC688+0qfjPdOxILHFiGMQsPqCjAoGBAIVLlnDxDhwmOyy0clE1\nzdskmjyjS52F/rDTt34UQ6QvIq0x8GzT2j51j6wTXH7dnkf6rBIoV6ckoiMQvldt\nSgnGUw8xRbWgT68NDze04MK/pwTAAsygZcxDoD/wgEDJXilnNA+LCBy68kprpvEA\nN8KK6CnyQJEuO97cQAD8lPiR\n-----END PRIVATE KEY-----\n",
+  "client_email": "scraper-gpt-sa@affable-bastion-324718.iam.gserviceaccount.com",
+  "client_id": "107563501045099878158",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scraper-gpt-sa%40affable-bastion-324718.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
